@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "981231962918",
+    "project_id": "foro-2-dps",
+    "storage_bucket": "foro-2-dps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981231962918:android:ff07ec15a460462418cfe7",
+        "android_client_info": {
+          "package_name": "com.villalta.authforo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981231962918-e6a5jmu2kks4tqb4hhusr6n8mgb67cj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.villalta.authforo",
+            "certificate_hash": "e50735981edcfa46404198767a8c06cbaad4c31c"
+          }
+        },
+        {
+          "client_id": "981231962918-bat58mao2e10ho2lv1iu0864djnp9cge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBbRwZTN6cvVvmWS-GEu1dkJIkCHfKMbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981231962918-bat58mao2e10ho2lv1iu0864djnp9cge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
